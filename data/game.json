@@ -1,5 +1,8 @@
 {
     "title": "Market Value",
-    "start-screen": "start/start.json",
-    "game-data": "game/game.json"
+    "description": "The market value of the player.",
+    "modules": [
+        "start",
+        "game"
+    ]
 }
