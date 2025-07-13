@@ -2,7 +2,8 @@
     "title": "Market Value",
     "description": "The market value of the player.",
     "modules": [
-        "start",
-        "game"
+        "pages/start",
+        "pages/navigate",
+        "components/game-menu"
     ]
 }
